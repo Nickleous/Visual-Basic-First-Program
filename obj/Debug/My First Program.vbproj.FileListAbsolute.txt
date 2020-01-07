@@ -1,0 +1,11 @@
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\bin\Debug\My First Program.exe.config
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\bin\Debug\My First Program.exe
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\bin\Debug\My First Program.pdb
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\bin\Debug\My First Program.xml
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\obj\Debug\My First Program.vbprojAssemblyReference.cache
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\obj\Debug\My_First_Program.Form1.resources
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\obj\Debug\My_First_Program.Resources.resources
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\obj\Debug\My First Program.vbproj.GenerateResource.cache
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\obj\Debug\My First Program.exe
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\obj\Debug\My First Program.xml
+C:\Users\nblan\OneDrive\Desktop\VB stuff\FirstProgram\My First Program\obj\Debug\My First Program.pdb
